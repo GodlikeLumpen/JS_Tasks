@@ -1,0 +1,24 @@
+body {
+    background: white;
+    border: 10px;
+    margin: 10px;
+    padding: 0px;
+}
+div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 600px;
+    padding: 0px;
+    background: white;
+    
+}
+canvas {
+
+    width: 700px;
+    height: 700px;
+    padding: 0px;
+    border: 2px double cadetblue;
+
+}
